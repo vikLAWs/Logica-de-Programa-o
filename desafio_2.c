@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+/*Checagem de numeros primos dentro de um intervalo*/
+
 int a,b,f,i,r,min,max,z;
 main() {
 
